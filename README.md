@@ -24,3 +24,13 @@ Outras tecnologias:
 # 
 
 Atualmente fazendo parte do Laboratório de Inovação e Desenvolvimento em Inteligência Artificial (LIDIA) e buscando Iniciação Científica na área de Machine Learning e Ciência de Dados. 
+
+# 
+
+Contato: 
+
+<div id="badges">
+  <a href=https://www.linkedin.com/in/guilherme-henrique-guimar%C3%A3es-da-silva-6351ab350/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
