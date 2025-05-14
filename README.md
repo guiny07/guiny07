@@ -23,9 +23,7 @@ Outras tecnologias:
 
 # 
 
-Atualmente fazendo parte do Laboratório de Inovação e Desenvolvimento em Inteligência Artificial (LIDIA) e buscando Iniciação Científica na área de Machine Learning e Ciência de Dados. 
-
-# 
+Atualmente fazendo parte do Laboratório de Inovação e Desenvolvimento em Inteligência Artificial (LIDIA) e realizando Iniciação Científica na área de Ciência de Dados e Machine Learning.
 
 Contato: 
 
