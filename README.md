@@ -1,6 +1,6 @@
 # Olá, meu nome é Guilherme! 
 
-Sou estudante de Ciência da Computação na Universidade Estadual Paulista "Júlio de Mesquita Filho" e atualmente estou no 5º semestre do curso. 
+Sou estudante de Ciência da Computação na Universidade Estadual Paulista "Júlio de Mesquita Filho" e atualmente estou no 6º semestre do curso. 
 
 Alguns dos temas que são de meu interesse: 
 
