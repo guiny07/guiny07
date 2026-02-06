@@ -9,7 +9,7 @@ Alguns dos temas que são de meu interesse:
 - Engenharia de Software.
 - Desenvolvimento Back-end.
 
-Busco oportunidade para atuação em Desenvolvimento de Software, Inteligência Artificial e Machine Learning.
+Busco oportunidade para atuação em Desenvolvimento de Software, Inteligência Artificial ou Machine Learning.
 
 #
 
