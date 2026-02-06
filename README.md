@@ -1,6 +1,6 @@
 # Olá, meu nome é Guilherme! 
 
-Sou estudante de Ciência da Computação na Universidade Estadual Paulista "Júlio de Mesquita Filho" e atualmente estou no 6º semestre do curso. 
+Sou estudante de Ciência da Computação na Universidade Estadual Paulista "Júlio de Mesquita Filho" e atualmente estou no 7º semestre do curso. 
 
 Alguns dos temas que são de meu interesse: 
 
@@ -8,6 +8,8 @@ Alguns dos temas que são de meu interesse:
 - Inteligência Artificial.
 - Engenharia de Software.
 - Desenvolvimento Back-end.
+
+Busco oportunidade para atuação em Desenvolvimento de Software, Inteligência Artificial e Machine Learning.
 
 #
 
