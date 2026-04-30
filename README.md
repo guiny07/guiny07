@@ -15,7 +15,7 @@ Busco oportunidade para atuação em Desenvolvimento de Software, Inteligência 
 
 Algumas das linguagens que tenho experiência até o momento: 
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,cpp)](https://skillicons.dev)
 
 #
 
@@ -25,7 +25,7 @@ Outras tecnologias:
 
 # 
 
-Atualmente fazendo parte do Laboratório de Inovação e Desenvolvimento em Inteligência Artificial (LIDIA) e realizando Iniciação Científica na área de Ciência de Dados e Machine Learning.
+Atualmente membro do Laboratório de Inovação e Desenvolvimento em Inteligência Artificial (LIDIA) e realizando Iniciação Científica na área de Ciência de Dados e Machine Learning.
 
 Contato: 
 
